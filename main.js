@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'leticialeiteribeiro',
-  youtube: 'https://youtube.com/channel/UCsLfnTey9N5S548bi5d_Pwg',
+  youtube: 'channel/UCsLfnTey9N5S548bi5d_Pwg',
   facebook: 'ozean.escolanautica',
   instagram: 'leticialeiteribeiro',
   twitter: 'OzEscolaNautica'
